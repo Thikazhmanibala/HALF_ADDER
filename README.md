@@ -39,8 +39,8 @@ Click the simulation to simulate the program and give the inputs and verify the 
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
 ## VERILOG CODE:
 ```
-Developed by:
-Register Number:
+Developed by:Thikazhmanibala.K
+Register Number:212222060277
 ```
 ```
 module halfadder( a,b,sum,carry);
